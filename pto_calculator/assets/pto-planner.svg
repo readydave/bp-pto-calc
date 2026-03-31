@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">PTO Planner icon</title>
+  <desc id="desc">Rounded square badge with a calendar, a check mark, and a sun accent.</desc>
+  <defs>
+    <linearGradient id="bg" x1="160" y1="144" x2="880" y2="896" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1257d6"/>
+      <stop offset="1" stop-color="#12b76a"/>
+    </linearGradient>
+    <linearGradient id="header" x1="256" y1="256" x2="768" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b4cc1"/>
+      <stop offset="1" stop-color="#0f7a9b"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="96" y="96" width="832" height="832" rx="188" fill="url(#bg)"/>
+  <rect x="224" y="248" width="576" height="536" rx="72" fill="#ffffff"/>
+  <path d="M224 320c0-39.8 32.2-72 72-72h432c39.8 0 72 32.2 72 72v120H224V320Z" fill="url(#header)"/>
+  <rect x="300" y="172" width="68" height="140" rx="34" fill="#d5e6ff"/>
+  <rect x="656" y="172" width="68" height="140" rx="34" fill="#d5e6ff"/>
+  <circle cx="770" cy="222" r="84" fill="#ffb020"/>
+  <circle cx="770" cy="222" r="46" fill="#ffd36b"/>
+
+  <rect x="304" y="500" width="92" height="92" rx="22" fill="#d9ecff"/>
+  <rect x="466" y="500" width="92" height="92" rx="22" fill="#d9ecff"/>
+  <rect x="628" y="500" width="92" height="92" rx="22" fill="#d9ecff"/>
+  <rect x="304" y="628" width="92" height="92" rx="22" fill="#d9ecff"/>
+  <rect x="466" y="628" width="92" height="92" rx="22" fill="#d9ecff"/>
+  <path d="M612 666l48 48 114-128" fill="none" stroke="#12b76a" stroke-linecap="round" stroke-linejoin="round" stroke-width="54"/>
+</svg>

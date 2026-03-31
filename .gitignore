@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+pto_calculator/.DS_Store
+pto_calculator/gui/.DS_Store
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+build/
+dist/
+scenario.local.json
